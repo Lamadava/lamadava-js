@@ -1,0 +1,22 @@
+{
+  "name": "lamadava",
+  "version": "1.0.0",
+  "description": "The powerful library for Lamadava API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamadava/lamadava-js.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "Lamadava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamadava/lamadava-js/issues"
+  },
+  "homepage": "https://github.com/lamadava/lamadava-js#readme"
+}
